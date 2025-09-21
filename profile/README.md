@@ -20,7 +20,7 @@ The app sits discreetly in the menu bar, allowing you to enable or disable the s
 
 Whether you're using a MacBook Air, MacBook Pro, or a desktop Mac, Lungo ensures your display remains active for as long as you need. It is especially useful for developers, designers, students, and professionals who require an uninterrupted workflow.
 
-![Lungo Interface](https://static.macupdate.com/screenshots/317072/m/lungo-screenshot.png)
+![Lungo Interface](https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/e93acf18-7f6d-44b2-b82c-48390dbfd7f9/1496216195/lungo-screen800x500%20(1).jpg)
 
 ---
 
